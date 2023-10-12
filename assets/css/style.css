@@ -680,7 +680,7 @@ section {
 }
 
 .about .image1 {
-  background: url("../img/fund/fund-3.mp4") center center no-repeat;
+  background: url("../img/fund/fund.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -740,7 +740,7 @@ section {
 }
 
 .about .image2 {
-  background: url("../img/fund/fund.mp4") center center no-repeat;
+  background: url("../img/fund/1.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -800,7 +800,7 @@ section {
 }
 
 .about .image3 {
-  background: url("../img/fund/fund-2.mp4") center center no-repeat;
+  background: url("../img/fund/2.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
